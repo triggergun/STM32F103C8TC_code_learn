@@ -1,4 +1,5 @@
-./objects/main.o: E:\stm32f10x_lib\User\main.c \
+./objects/relay.o: E:\stm32f10x_lib\User\relay\relay.c \
+  E:\stm32f10x_lib\User\relay\relay.h \
   E:\stm32f10x_lib\Libraries\CMSIS\stm32f10x.h \
   E:\stm32f10x_lib\Libraries\CMSIS\core_cm3.h \
   E:\stm32f10x_lib\Libraries\CMSIS\system_stm32f10x.h \
@@ -25,5 +26,4 @@
   E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h \
   E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h \
   E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h \
-  E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h \
-  E:\stm32f10x_lib\User\led\led.h E:\stm32f10x_lib\User\relay\relay.h
+  E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

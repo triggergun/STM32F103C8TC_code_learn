@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc;E:\stm32f10x_lib\User;E:\stm32f10x_lib\Libraries\CMSIS;E:\stm32f10x_lib\User\led</IncludePath>
+              <IncludePath>E:\stm32f10x_lib\Libraries\STM32F10x_StdPeriph_Driver\inc;E:\stm32f10x_lib\User;E:\stm32f10x_lib\Libraries\CMSIS;E:\stm32f10x_lib\User\led;E:\stm32f10x_lib\User\relay</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -411,6 +411,11 @@
               <FileName>led.c</FileName>
               <FileType>1</FileType>
               <FilePath>E:\stm32f10x_lib\User\led\led.c</FilePath>
+            </File>
+            <File>
+              <FileName>relay.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>E:\stm32f10x_lib\User\relay\relay.c</FilePath>
             </File>
           </Files>
         </Group>

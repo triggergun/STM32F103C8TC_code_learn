@@ -39,3 +39,12 @@ Trigger information through vibration sensors to light up LED lights.
 <img src="readme.assets/image-20260315142009043.png" alt="image-20260315142009043" style="zoom:67%;" />
 
 Each directory is a separate demo. The purpose is to enable quick review and testing.
+
+## Case registration
+
+| case         | description                    | project directory |
+| ------------ | ------------------------------ | ----------------- |
+| Relay Case 1 | Case study of light on and off | stm32_demo03_02   |
+|              |                                |                   |
+|              |                                |                   |
+

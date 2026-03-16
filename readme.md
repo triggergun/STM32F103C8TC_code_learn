@@ -40,6 +40,12 @@ Trigger information through vibration sensors to light up LED lights.
 
 Each directory is a separate demo. The purpose is to enable quick review and testing.
 
+## Project dependent custom firmware library
+
+Customize firmware library address：[triggergun/stm32f10x_lib: Stm32f10x custom firmware library](https://github.com/triggergun/stm32f10x_lib)
+
+
+
 ## Case registration
 
 | case         | description                    | project directory |
@@ -47,4 +53,10 @@ Each directory is a separate demo. The purpose is to enable quick review and tes
 | Relay Case 1 | Case study of light on and off | stm32_demo03_02   |
 |              |                                |                   |
 |              |                                |                   |
+
+
+
+
+
+
 
